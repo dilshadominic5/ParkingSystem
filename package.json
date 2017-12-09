@@ -1,0 +1,23 @@
+{
+  "name": "parkingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshadominic5/ParkingSystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilshadominic5/ParkingSystem/issues"
+  },
+  "homepage": "https://github.com/dilshadominic5/ParkingSystem#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
